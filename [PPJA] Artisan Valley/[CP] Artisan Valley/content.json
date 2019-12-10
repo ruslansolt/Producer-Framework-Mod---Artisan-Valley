@@ -11,6 +11,8 @@
             "Purple Mushroom": "color_purple, forage_item, forage_item_mines, mushroom_item",
             "Chanterelle": "color_brown, forage_item, forage_item_cave, forage_item_secret, season_fall, mushroom_item",
             "Morel": "color_brown, forage_item, forage_item_secret, forage_item_cave, season_spring, mushroom_item",
+            "Cheese": "color_yellow, cheese_item",
+            "Goat Cheese": "color_yellow, cheese_item",
         },
     }]
 }

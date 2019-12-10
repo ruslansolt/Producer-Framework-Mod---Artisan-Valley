@@ -26,7 +26,7 @@
       "IsRequired": true,
    },
  {
-      "UniqueID": "Platonymous.CustomFarming",
+      "UniqueID": "DIGUS.ProducerFrameworkMod",
       "IsRequired": true,
    },
 ],

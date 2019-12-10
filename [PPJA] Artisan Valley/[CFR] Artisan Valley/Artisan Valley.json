@@ -2180,7 +2180,7 @@
           ],
           "conditions": "hasmod ppja.ancientcrops"
         }
-        /*Sweet Tooth*/,
+        /*Sweet Tooth,
         {
           "item": "Chocolate Chips",
           "time": 120,
@@ -2448,7 +2448,7 @@
         "index": -6
       },
       "production": [
-        {
+        /*{
           "item": "Chocolate Ice Cream",
           "time": 120,
           "materials": [
@@ -2465,7 +2465,7 @@
               "name": "Matcha Powder"
             }
           ]
-        },
+        },*/
         {
           "item": "Neapolitan Ice Cream",
           "time": 120,
@@ -2481,7 +2481,7 @@
             }
           ]
         },
-        {
+        /*{
           "item": "Orange Sherbet",
           "time": 120,
           "materials": [
@@ -2516,7 +2516,7 @@
               "index": 74
             }
           ]
-        }
+        }*/
         /*Sweet Tooth Recipes*/,
         {
           "item": "Birthday Cake Ice Cream",
@@ -2724,7 +2724,7 @@
         }
       ]
     },
-    {
+    /*{
       "id": 17,
       "name": "Juicer",
       "description": "Turns fruit into freshly squeezed juice.",
@@ -2748,7 +2748,7 @@
           ]
         }
       ]
-    },
+    },*/
     /*{
       "id": 19,
       "name": "Soap Press",
@@ -2792,7 +2792,7 @@
               "name": "Almond"
             }
           ]
-        },*/
+        },
         {
           "item": "Handmade Soap",
           "time": 360,
@@ -2806,7 +2806,7 @@
             }
           ]
         },
-        /*{
+        {
           "item": "Handmade Soap",
           "time": 360,
           "prefix": true,
@@ -2818,7 +2818,7 @@
               "name": "Cashew"
             }
           ]
-        },*/
+        },
         {
           "item": "Handmade Soap",
           "time": 360,
