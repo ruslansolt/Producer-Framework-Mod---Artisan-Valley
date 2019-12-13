@@ -3,14 +3,14 @@
 ## Contents
 * [Introduction](#introduction)
   * [What's New](#whats-new)
-* [Uninstalling Custom Farming Redux](#uninstalling-custom-farming-redux)
-  * [Artisan Valley is my only Custom Farming Redux mod](#artisan-valley-only)
-  * [I have other Custom Farming Redux mods installed](#other-CFR-mods)
 * [Installing Producer Framework Mod](#installing-producer-framework-mod)
 * [Installing Artisan Valley 3.0](#installing-artisan-valley)
+* [Manually Uninstalling Custom Farming Redux](#manually-uninstalling-custom-farming-redux)
+  * [Artisan Valley is my only Custom Farming Redux mod](#artisan-valley-only)
+  * [I have other Custom Farming Redux mods installed](#other-CFR-mods)
 * [Questions](#questions)
-  * [Can I keep using the CFR version of Artisan Valley?]
-* [Troubleshooting](#troubleshooting)
+  * [Can I keep using the CFR version of Artisan Valley?](#can-i-keep-using-the-cfr-version-of-artisan-valley)
+  * [Do I really need to remove my CFR machines prior to uninstalling CFR?](#do-i-really-need-to-remove-my-cfr-machines-prior-to-uninstalling-cfr)
 * [Documentation for Modders](#documentation-for-modders)
   * [How to use an Artisan Valley machine](#how-to-use-an-artisan-valley-machine)
   * [Migrating your CFR pack](#migrating-your-cfr-pack)
@@ -25,13 +25,33 @@ Since its inception, [Artisan Valley](https://www.nexusmods.com/stardewvalley/mo
 
 Artisan Valley 3.0 adds some new features to hopefully extend the length of gameplay:
 
-* *New Save* Machines unlock based on certain skill levels
+* **New Save** Machines unlock based on certain skill levels
 * Vanilla machines can now accept custom items
 * Ability to age certain custom products in casks now (alcohol for example)
 
-## Uninstalling Custom Farming Redux
+## Installing Producer Framework Mod
 
-Below are two sections. Following the guide depending on which situation applies to you. If the **only** Custom Farming Redux mod you have installed is Artisan Valley you will follow `Artisan Valley Only`. If you have other mods that use Custom Farming Redux you will follow `Other CFR Mods`.
+1. [Install the latest version of SMAPI](https://smapi.io/).
+2. Install [Producer Framework Mod](LINK).
+3. Run the game using SMAPI.
+
+## Installing Artisan Valley
+
+This assumes you have installed Producer Framework Mod already.
+
+1. [Install the latest version of Artisan Valley](https://www.nexusmods.com/stardewvalley/mods/1926) *Version 3.0 or later supports Producer Framework Mod.* Artisan Valley 3.0 comes bundled with a mod that will automatically convert any pre-existing CFR machines into BigCraftables. If you're having trouble follow the [Manually Uninstalling CFR Guide](#manually-uninstalling-custom-farming-redux).
+2. Install the latest version of: [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720), [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348), [Mail Framework Mod](https://www.nexusmods.com/stardewvalley/mods/1536), [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915), & [PPJA Collection](https://www.nexusmods.com/stardewvalley/mods/1935).
+3. *Optional* Install [Custom Cask Mod](https://www.nexusmods.com/stardewvalley/mods/2642) to age alcohols in casks.
+4. Unzip any folders and drop them into `Mods`
+5. Run the game using SMAPI
+
+__________________________
+
+## Manually Uninstalling Custom Farming Redux
+
+Artisan Valley comes with a mod that will automatically convert any pre-existing Artisan Valley machines into BigCraftables or their vanilla counterpart. If you're having trouble with this mod below are two guide for manually uninstalling CFR.
+
+Follow the guide depending on which situation applies to you. If the **only** Custom Farming Redux mod you have installed is Artisan Valley you will follow `Artisan Valley Only`. If you have other mods that use Custom Farming Redux you will follow `Other CFR Mods`.
 
 Improper uninstallation will cause your machines to [turn into chests](https://i.imgur.com/DmoG3L6.png). You will not only lose the machine but the item inside. To learn more as to why you should follow the steps below see [here](LINK).
 
@@ -44,7 +64,7 @@ If you're reading this, the only Custom Farming Redux mod you have installed is 
 3. If you have any machines placed on your farm pick them up. 
 4. If you have any machines in your chests remove them from chests.
 
--- At this point you should have all of your custom machines in your inventory ---
+⚠ At this point you should have all of your custom machines in your inventory ⚠
 
 5. **DELETE ALL MACHINES** You can throw them in the trash, the river, down in the mines. You will need to sleep/save the game. If you don't want to have to re-craft everything make a note of what machines you have. You can spawn them in with [CJB Item Spawner](https://www.nexusmods.com/stardewvalley/mods/93) to save you from having to gather more resources.
 6. Close the game and navigate to your `Mods` folder.
@@ -62,27 +82,13 @@ If you're reading this you have other mods that use CFR. This means you **cannot
 3. If you have any Artisan Valley machines placed on your farm pick them up. 
 4. If you have any Artisan Valley machines in your chests remove them from chests.
 
--- At this point you should have all of your Artisan Valley machines in your inventory ---
+⚠ At this point you should have all of your Artisan Valley machines in your inventory ⚠
 
 5. **DELETE ALL ARTISAN VALLEY MACHINES** You can throw them in the trash, the river, down in the mines. You will need to sleep/save the game. If you don't want to have to re-craft everything make a note of what Artisan Valley machines you have. You can spawn them in with [CJB Item Spawner](https://www.nexusmods.com/stardewvalley/mods/93) to save you from having to gather more resources.
 6. Close the game and navigate to your `Mods` folder.
 7. Remove the following folder: `[CFR] Artisan Valley` (may be located under `[PPJA] Artisan Valley`). 
 
-## Installing Producer Framework Mod
-
-1. [Install the latest version of SMAPI](https://smapi.io/).
-2. Install [Producer Framework Mod](LINK).
-3. Run the game using SMAPI.
-
-## Installing Artisan Valley
-
-This assumes you have installed Producer Framework Mod already.
-
-1. [Install the latest version of Artisan Valley](https://www.nexusmods.com/stardewvalley/mods/1926) *Version 3.0 or later supports Producer Framework Mod.*
-2. Install the latest version of: [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720), [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348), [Mail Framework Mod](https://www.nexusmods.com/stardewvalley/mods/1536), [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915), & [PPJA Collection](https://www.nexusmods.com/stardewvalley/mods/1935).
-3. *Optional* Install [Custom Cask Mod](https://www.nexusmods.com/stardewvalley/mods/2642) to age alcohols in casks.
-4. Unzip any folders and drop them into `Mods`
-5. Run the game using SMAPI
+__________________________
 
 ## Questions
 
@@ -92,10 +98,7 @@ The last version of Artisan Valley to support CFR was [INSERT VERSION NUMBER]. 3
 ### Do I really need to remove my CFR machines prior to uninstalling CFR?
 Because of how CFR is written **YES**. If the pack a machine came from OR Custom Farming Redux itself is removed, the machine will turn into a chest to prevent the game from crashing because of a missing item. If you have an item processing, chances are you will have one or two items in that chest - the finished product if it is a non-prefixed or suffixed item such as Butter, or if it is a prefixed/suffixed item, you'll have the generic version of that item (`Essential Oil` for example) and the item that was going to give its unique identifier (`Herbal Lavender` for example). In short, it is up to you whether or not you rip your machines up before uninstalling, but there will be no ill effects if you do not.
 
-## Troubleshooting
-
-### All my machines turned into chests!
-This is a known issue due to improper uninstallation. The game can't find the item, which CFR then turns it into a chest. See [Uninstalling Custom Farming Redux](#Uninstalling-Custom-Farming-Redux) for how to properly migrate Artisan Valley over. 
+__________________________
 
 ## Documentation for Modders
 
@@ -106,6 +109,7 @@ With the release of PFM you can now target machines outside of the pack, somethi
 * MythicPhoenix's Phoenix's 
 * Trent's New Animals
 * Ancient Crops
+* Murrthecat's BFAV Quails
 
 You will have to download these add-on packs seperate. 
 
