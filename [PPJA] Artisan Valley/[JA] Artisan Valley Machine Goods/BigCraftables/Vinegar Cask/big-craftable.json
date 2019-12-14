@@ -1,24 +1,24 @@
 {
-    "Name": "Extruder",
-    "Description": "Turns flour into noodles and honey into wax!",
+    "Name": "Vinegar Cask",
+    "Description": "A cask designed to turn grapes into vinegar.",
     "Price": 1,
     "ProvidesLight": false,
-    "ReserveNextIndex": true,
+    "ReserveNextIndex": false,
     "Recipe":
     {
         "ResultCount": 1,
         "Ingredients": [
         {
-            "Object": 709,
-            "Count": 5,
+            "Object": 338,
+            "Count": 30,
         },
         {
             "Object": 335,
-            "Count": 2,
+            "Count": 1,
         },
         {
-            "Object": 787,
-            "Count": 1,
+            "Object": 726,
+            "Count": 3,
         }, ],
         "CanPurchase": false,
     },

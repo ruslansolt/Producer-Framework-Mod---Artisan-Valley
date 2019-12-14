@@ -2013,9 +2013,7 @@
         "ProducerName": "Grinder",
         "InputIdentifier": "-75",
         "InputStack": 1,
-        "ExcludeIdentifiers": [""
-            270 "", "284"
-        ],
+        "ExcludeIdentifiers": ["270","284"], 
         "FuelIdentifier": null,
         "FuelStack": 1,
         "MinutesUntilReady": 360,
@@ -2039,9 +2037,7 @@
         "ProducerName": "Infuser",
         "InputIdentifier": "-79",
         "InputStack": 1,
-        "ExcludeIdentifiers": [""
-            613 "", "636"
-        ],
+        "ExcludeIdentifiers": ["613", "636"],
         "FuelIdentifier": null,
         "FuelStack": 1,
         "MinutesUntilReady": 1600,
@@ -2522,7 +2518,7 @@
     // Vinegar Cask
 
     {
-        "ProducerName": "Cask",
+        "ProducerName": "Vinegar Cask",
         "InputIdentifier": "398",
         "InputStack": 1,
         "FuelIdentifier": null,

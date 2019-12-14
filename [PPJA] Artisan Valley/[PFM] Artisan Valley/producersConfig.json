@@ -80,6 +80,11 @@
 		"AlternateFrameWhenReady": false, 
 	},
 	{
+		"ProducerName": "Vinegar Cask", //Only 1 frame
+		"AlternateFrameProducing": false, 
+		"AlternateFrameWhenReady": false, 
+	},
+	{
 		"ProducerName": "Wax Barrel", //Name of the producer
 		"AlternateFrameProducing": false, //If the producer should use the alternate frame when producing.
 		"AlternateFrameWhenReady": false, //If the producer should use the alternate frame and ready for harvest.
