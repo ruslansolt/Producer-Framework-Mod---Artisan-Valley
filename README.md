@@ -15,8 +15,6 @@
   * [How to use an Artisan Valley machine](#how-to-use-an-artisan-valley-machine)
   * [Migrating your CFR pack](#migrating-your-cfr-pack)
 
-
-
 ## Introduction
 
 Since its inception, [Artisan Valley](https://www.nexusmods.com/stardewvalley/mods/1926) has used [Custom Farming Redux](https://www.nexusmods.com/stardewvalley/mods/991) as its second core framework. CFR gave us the ability to add custom machines into Stardew Valley but not modify vanilla machines. This lead to Artisan Valley having machines such as: Exotic Mayonnaise Machine, Hardwood Keg, and Vinegar Cask to name a few. It had always been the intention of being able to utilize the vanilla machines in tandem with non-vanilla inputs and outputs. [Producer Framework Mod](LINK) gave us this opportunity while also being a more stable framework and built around the needs of the PPJA team. Digus has previously provided us with content packs for [Mail Framework Mod](https://www.nexusmods.com/stardewvalley/mods/1536) and the ability to age custom items in the vanilla casks with [Custom Cask Mod](https://www.nexusmods.com/stardewvalley/mods/2642). 
@@ -104,23 +102,23 @@ __________________________
 
 With the release of PFM you can now target machines outside of the pack, something CFR could not do. This means you do not have to have the PPJA team add your items to Artisan Valley's code to make it work. We have migrated some pre-existing packs over to this format:
 
-* Cannabis Kit
-* Sweet Tooth
-* MythicPhoenix's Phoenix's 
-* Trent's New Animals
-* Ancient Crops
-* Murrthecat's BFAV Quails
+* [Cannabis Kit](https://www.nexusmods.com/stardewvalley/mods/1741)
+* [Sweet Tooth](https://www.nexusmods.com/stardewvalley/mods/1897)
+* [BFAV Phoenixes](https://www.nexusmods.com/stardewvalley/mods/4846)
+* [Trent's New Animals](https://www.nexusmods.com/stardewvalley/mods/3634)
+* [Ancient Crop](https://www.nexusmods.com/stardewvalley/mods/4472)
+* [Murrthecat's BFAV Quails](https://www.nexusmods.com/stardewvalley/mods/4847)
 
 You will have to download these add-on packs seperate. 
 
 ### How to use an Artisan Valley machine
 `"ProducerName"` has to match a unique name. If you want to use Artisan Valley Alembic you would type: `"ProducerName": "Alembic"`. You may also want to list Artisan Valley as a dependency in your manifest to ensure users have both installed. But that's it! You can now use any Artisan Valley machine.
 
-You can also use any `ProducerName` from other mods (like Farmer to Florist) as well.
+You can also use any `ProducerName` from other mods (like [Farmer to Florist](https://www.nexusmods.com/stardewvalley/mods/2075) well.
 
 ### Migrating your CFR pack
-If you feel PFM may fit your needs better than CFR you can find official documentation [here](LINK). If you still have questions we encourage you to check out the [official SDV discord](LINK) for more help.
+If you have questions we encourage you to check out the [official SDV discord](https://stardewvalley.community/) for more help.
 
-If you are struggling and would like PPJA to help you convert your pack please send me a [direct message on Nexus](LINK) with a link to your CFR pack and we'll see what we can do :) Once you do two or three patches it becomes much easier. Artisan Valley only took maybe an hour to convert.
+If you are struggling and would like PPJA to help you convert your pack please send me a [direct message on Nexus](https://www.nexusmods.com/users/26612284) with a link to your CFR pack and we'll see what we can do :) Once you do two or three patches it becomes much easier. Artisan Valley only took maybe an hour to convert.
 
 
