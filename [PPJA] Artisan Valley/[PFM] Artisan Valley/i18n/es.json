@@ -1,0 +1,18 @@
+{
+    "Dehydrator.Fruit": "{inputName} seca",
+    "DryingRack.Flower": "{inputName} seca",
+    "DryingRack.Herb": "{inputName} seca",
+    "DryingRack.Vegetable": "{inputName} seca",
+    "DryingRack.Mushroom": "{inputName} seca",
+    "Grinder.Herb": "{inputName} molidas",
+    "Grinder.Vegetable": "{inputName} molidas",
+    "Infuser.Schnapps": "{inputName} Aguardiente",
+
+    // To Do
+
+    "YogurtJar.Fruit": "{inputName} Yogurt",
+    "Alemic.EssentialOil": "{inputName} Essential Oil",
+    "Juice.Fruit": "{inputName} Juice",
+    "SoapPress.Soap": "Handmade {inputName} Soap",
+    "Smoker.Fish": "Smoked {inputName} ",
+}
