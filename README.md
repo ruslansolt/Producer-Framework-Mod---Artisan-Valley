@@ -47,7 +47,7 @@ __________________________
 
 ## Manually Uninstalling Custom Farming Redux
 
-Artisan Valley comes with a mod that will automatically convert any pre-existing Artisan Valley machines into BigCraftables or their vanilla counterpart. If you're having trouble with this mod below are two guide for manually uninstalling CFR.
+Artisan Valley & farmer to Florist [comes with a mod](https://cdn.discordapp.com/attachments/651949064761376799/658803263226773505/PPJAProducerConverter-v0.4.0.zip) that will automatically convert any pre-existing Artisan Valley or Farmer to Florist machines into BigCraftables or their vanilla counterpart. If you're having trouble with this mod below are two guide for manually uninstalling CFR.
 
 Follow the guide depending on which situation applies to you. If the **only** Custom Farming Redux mod you have installed is Artisan Valley you will follow `Artisan Valley Only`. If you have other mods that use Custom Farming Redux you will follow `Other CFR Mods`.
 
