@@ -19,6 +19,8 @@
 
 Since its inception, [Artisan Valley](https://www.nexusmods.com/stardewvalley/mods/1926) has used [Custom Farming Redux](https://www.nexusmods.com/stardewvalley/mods/991) as its second core framework. CFR gave us the ability to add custom machines into Stardew Valley but not modify vanilla machines. This lead to Artisan Valley having machines such as: Exotic Mayonnaise Machine, Hardwood Keg, and Vinegar Cask to name a few. It had always been the intention of being able to utilize the vanilla machines in tandem with non-vanilla inputs and outputs. [Producer Framework Mod](LINK) gave us this opportunity while also being a more stable framework and built around the needs of the PPJA team. Digus has previously provided us with content packs for [Mail Framework Mod](https://www.nexusmods.com/stardewvalley/mods/1536) and the ability to age custom items in the vanilla casks with [Custom Cask Mod](https://www.nexusmods.com/stardewvalley/mods/2642). 
 
+This guide also applies to [Farmer to Florist](https://www.nexusmods.com/stardewvalley/mods/2075) but I will refer to Artisan Valley primarily.
+
 ### What's New
 
 Artisan Valley 3.0 adds some new features to hopefully extend the length of gameplay:
@@ -38,7 +40,7 @@ Artisan Valley 3.0 adds some new features to hopefully extend the length of game
 This assumes you have installed Producer Framework Mod already.
 
 1. Delete all pre-existing Artisan Valley folders ([CFR] Artisan Valley and [JA] Artisan Valley Machine Goods, inside [PPJA] Artisan Valley). This is important for the tool to run properly.
-2. [Install the latest version of Artisan Valley](https://www.nexusmods.com/stardewvalley/mods/1926) *Version 3.0 or later supports Producer Framework Mod.* Artisan Valley 3.0 comes bundled with a mod that will automatically convert any pre-existing CFR machines into BigCraftables. If you're having trouble follow the [Manually Uninstalling CFR Guide](#manually-uninstalling-custom-farming-redux).
+2. [Install the latest version of Artisan Valley](https://www.nexusmods.com/stardewvalley/mods/1926) *Version 3.0 or later supports Producer Framework Mod.* Artisan Valley 3.0 has a mod that will automatically convert any pre-existing CFR machines into BigCraftables. If you're having trouble follow the [Manually Uninstalling CFR Guide](#manually-uninstalling-custom-farming-redux).
 3. Install the latest version of: [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720), [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348), [Mail Framework Mod](https://www.nexusmods.com/stardewvalley/mods/1536), [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915), & [PPJA Collection](https://www.nexusmods.com/stardewvalley/mods/1935).
 4. *Optional* Install [Custom Cask Mod](https://www.nexusmods.com/stardewvalley/mods/2642) to age alcohols in casks.
 5. Unzip any folders and drop them into `Mods`
@@ -48,7 +50,7 @@ __________________________
 
 ## Manually Uninstalling Custom Farming Redux
 
-Artisan Valley & farmer to Florist [comes with a mod](https://cdn.discordapp.com/attachments/651949064761376799/658803263226773505/PPJAProducerConverter-v0.4.0.zip) that will automatically convert any pre-existing Artisan Valley or Farmer to Florist machines into BigCraftables or their vanilla counterpart. If you're having trouble with this mod below are two guide for manually uninstalling CFR.
+Artisan Valley & Farmer to Florist [has a mod](https://cdn.discordapp.com/attachments/651949064761376799/658803263226773505/PPJAProducerConverter-v0.4.0.zip) that will automatically convert any pre-existing Artisan Valley or Farmer to Florist machines into BigCraftables or their vanilla counterpart. If you're having trouble with this mod below are two guide for manually uninstalling CFR.
 
 Follow the guide depending on which situation applies to you. If the **only** Custom Farming Redux mod you have installed is Artisan Valley you will follow `Artisan Valley Only`. If you have other mods that use Custom Farming Redux you will follow `Other CFR Mods`.
 
