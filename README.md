@@ -37,11 +37,12 @@ Artisan Valley 3.0 adds some new features to hopefully extend the length of game
 
 This assumes you have installed Producer Framework Mod already.
 
-1. [Install the latest version of Artisan Valley](https://www.nexusmods.com/stardewvalley/mods/1926) *Version 3.0 or later supports Producer Framework Mod.* Artisan Valley 3.0 comes bundled with a mod that will automatically convert any pre-existing CFR machines into BigCraftables. If you're having trouble follow the [Manually Uninstalling CFR Guide](#manually-uninstalling-custom-farming-redux).
-2. Install the latest version of: [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720), [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348), [Mail Framework Mod](https://www.nexusmods.com/stardewvalley/mods/1536), [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915), & [PPJA Collection](https://www.nexusmods.com/stardewvalley/mods/1935).
-3. *Optional* Install [Custom Cask Mod](https://www.nexusmods.com/stardewvalley/mods/2642) to age alcohols in casks.
-4. Unzip any folders and drop them into `Mods`
-5. Run the game using SMAPI
+1. Delete all pre-existing Artisan Valley folders ([CFR] Artisan Valley and [JA] Artisan Valley Machine Goods, inside [PPJA] Artisan Valley). This is important for the tool to run properly.
+2. [Install the latest version of Artisan Valley](https://www.nexusmods.com/stardewvalley/mods/1926) *Version 3.0 or later supports Producer Framework Mod.* Artisan Valley 3.0 comes bundled with a mod that will automatically convert any pre-existing CFR machines into BigCraftables. If you're having trouble follow the [Manually Uninstalling CFR Guide](#manually-uninstalling-custom-farming-redux).
+3. Install the latest version of: [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720), [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348), [Mail Framework Mod](https://www.nexusmods.com/stardewvalley/mods/1536), [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915), & [PPJA Collection](https://www.nexusmods.com/stardewvalley/mods/1935).
+4. *Optional* Install [Custom Cask Mod](https://www.nexusmods.com/stardewvalley/mods/2642) to age alcohols in casks.
+5. Unzip any folders and drop them into `Mods`
+6. Run the game using SMAPI
 
 __________________________
 
