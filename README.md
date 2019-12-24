@@ -39,7 +39,7 @@ Artisan Valley 3.0 adds some new features to hopefully extend the length of game
 
 This assumes you have installed Producer Framework Mod already.
 
-1. Delete all pre-existing Artisan Valley folders ([CFR] Artisan Valley and [JA] Artisan Valley Machine Goods, inside [PPJA] Artisan Valley). This is important for the tool to run properly.
+1. Delete all pre-existing Artisan Valley folders ([CFR] Artisan Valley and [JA] Artisan Valley Machine Goods, inside [PPJA] Artisan Valley). This is important for [the tool](https://www.nexusmods.com/stardewvalley/mods/4972) to run properly.
 2. [Install the latest version of Artisan Valley](https://www.nexusmods.com/stardewvalley/mods/1926) *Version 3.0 or later supports Producer Framework Mod.* Artisan Valley 3.0 has a mod that will automatically convert any pre-existing CFR machines into BigCraftables. If you're having trouble follow the [Manually Uninstalling CFR Guide](#manually-uninstalling-custom-farming-redux).
 3. Install the latest version of: [Json Assets](https://www.nexusmods.com/stardewvalley/mods/1720), [SpaceCore](https://www.nexusmods.com/stardewvalley/mods/1348), [Mail Framework Mod](https://www.nexusmods.com/stardewvalley/mods/1536), [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915), & [PPJA Collection](https://www.nexusmods.com/stardewvalley/mods/1935).
 4. *Optional* Install [Custom Cask Mod](https://www.nexusmods.com/stardewvalley/mods/2642) to age alcohols in casks.
@@ -50,7 +50,7 @@ __________________________
 
 ## Manually Uninstalling Custom Farming Redux
 
-Artisan Valley & Farmer to Florist [has a mod](https://cdn.discordapp.com/attachments/651949064761376799/658803263226773505/PPJAProducerConverter-v0.4.0.zip) that will automatically convert any pre-existing Artisan Valley or Farmer to Florist machines into BigCraftables or their vanilla counterpart. If you're having trouble with this mod below are two guide for manually uninstalling CFR.
+Artisan Valley & Farmer to Florist [has a tool](https://www.nexusmods.com/stardewvalley/mods/4972) that will automatically convert any pre-existing Artisan Valley or Farmer to Florist machines into BigCraftables or their vanilla counterpart. If you're having trouble with this mod below are two guide for manually uninstalling CFR.
 
 Follow the guide depending on which situation applies to you. If the **only** Custom Farming Redux mod you have installed is Artisan Valley you will follow `Artisan Valley Only`. If you have other mods that use Custom Farming Redux you will follow `Other CFR Mods`.
 
